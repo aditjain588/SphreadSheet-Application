@@ -1,0 +1,9 @@
+C:\Users\imadi\Desktop\cpts321hws\321SphreadSheet\SpreadSheetEngine\bin\Debug\netstandard2.0\SpreadSheetEngine.deps.json
+C:\Users\imadi\Desktop\cpts321hws\321SphreadSheet\SpreadSheetEngine\bin\Debug\netstandard2.0\SpreadSheetEngine.dll
+C:\Users\imadi\Desktop\cpts321hws\321SphreadSheet\SpreadSheetEngine\bin\Debug\netstandard2.0\SpreadSheetEngine.pdb
+C:\Users\imadi\Desktop\cpts321hws\321SphreadSheet\SpreadSheetEngine\obj\Debug\netstandard2.0\SpreadSheetEngine.csprojAssemblyReference.cache
+C:\Users\imadi\Desktop\cpts321hws\321SphreadSheet\SpreadSheetEngine\obj\Debug\netstandard2.0\SpreadSheetEngine.AssemblyInfoInputs.cache
+C:\Users\imadi\Desktop\cpts321hws\321SphreadSheet\SpreadSheetEngine\obj\Debug\netstandard2.0\SpreadSheetEngine.AssemblyInfo.cs
+C:\Users\imadi\Desktop\cpts321hws\321SphreadSheet\SpreadSheetEngine\obj\Debug\netstandard2.0\SpreadSheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\imadi\Desktop\cpts321hws\321SphreadSheet\SpreadSheetEngine\obj\Debug\netstandard2.0\SpreadSheetEngine.dll
+C:\Users\imadi\Desktop\cpts321hws\321SphreadSheet\SpreadSheetEngine\obj\Debug\netstandard2.0\SpreadSheetEngine.pdb

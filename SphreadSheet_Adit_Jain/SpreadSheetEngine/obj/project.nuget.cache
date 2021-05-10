@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRUIWgIqdnHbQoc+0xKmQVoe19RWxS9ZfjAq91Sf4lKV0X+JX0KxyEE5ullfQSS7JbHIqkj5GUPmhZVrzPYDfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\imadi\\Desktop\\cpts321hws\\SphreadSheet_Adit_Jain\\SpreadSheetEngine\\SpreadSheetEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\imadi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\imadi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\imadi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.321\\stylecop.analyzers.1.2.0-beta.321.nupkg.sha512",
+    "C:\\Users\\imadi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.321\\stylecop.analyzers.unstable.1.2.0.321.nupkg.sha512"
+  ],
+  "logs": []
+}
